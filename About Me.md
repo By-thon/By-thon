@@ -1,0 +1,5 @@
+- 👋 Hi, I’m By-thon a newbie
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nothing yet
+- 📫 How to reach me, You can't because I don't know HTML, CSS or JavaScript
